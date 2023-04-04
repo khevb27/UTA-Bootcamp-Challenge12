@@ -69,13 +69,17 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Preview
 
-<img src= "assets/images/title.jpg"/>
+<img src= "assets/images/C12 Screenshot 1.jpg"/>
+<img src= "assets/images/C12 Screenshot 2.jpg"/>
+<img src= "assets/images/C12 Screenshot 3.jpg"/>
+<img src= "assets/images/C12 Screenshot 4.jpg"/>
+<img src= "assets/images/C12 Screenshot 5.jpg"/>
+<img src= "assets/images/C12 Screenshot 6.jpg"/>
 
 #
 
 ## Links
 
-- Video Submission Link:
 - GitHub Repository Link: https://github.com/khevb27/UTA-Bootcamp-Challenge12 
 
 ----------------------------------------------------------------------
